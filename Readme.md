@@ -74,7 +74,3 @@ setInterval(muteAd, 1000);
 ## Notes
 - This extension works as long as YouTube's layout and ad system remain unchanged.
 - Use responsibly and in accordance with YouTube’s terms of service.
-
----
-
-Let me know if this works or if you need further adjustments!
