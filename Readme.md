@@ -1,7 +1,3 @@
-Got it! Here's the updated README where Option 2 starts with instructions on pulling the repository:
-
----
-
 # YouTube Ad Skipper (Chrome Extension)
 
 This Chrome extension automatically skips YouTube ads and mutes them during playback for a smoother viewing experience.
